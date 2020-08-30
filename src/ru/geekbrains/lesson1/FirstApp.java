@@ -31,6 +31,7 @@ public class FirstApp {
 
     }
 
+
 //3. Написать метод вычисляющий выражение a * (b + (c / d)) и возвращающий результат,где a, b, c, d – входные параметры этого метода;
 private static float Mathfirst (int a, int b, int c, int d){
     float result = a * (b + (c / d));
